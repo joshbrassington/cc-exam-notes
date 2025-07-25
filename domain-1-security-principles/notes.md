@@ -1,7 +1,7 @@
 # DOMAIN 1: Security Principles
 
 ## 📖 Overview
-> Key aspects to understand within this domain:
+> Sections within this domain:
 > 
 1.  Security concepts of information assurance.
 2.  Risk management process.
