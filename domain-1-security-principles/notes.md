@@ -37,6 +37,8 @@
 | Single Loss Expectancy (SLE) | Expected financial loss from a single risk event |
 | Annualised Rate of Occurrence (ARO) | Estimated numbre of times a specific risk it expected to occur in a year |
 | Annualised Loss Expectancy (ALE) | Projected annual financial loss from a specific risk |
+| Policies | High-level statements which define an organisations approach to security |
+| Standards | Mandatory and detailed rules which specify consistent methods, criteria or specifications to ensure implementation of policies across an organisation |
 
 
 ---
