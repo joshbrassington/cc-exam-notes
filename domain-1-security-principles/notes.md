@@ -29,10 +29,10 @@
 |------|------------|
 | CIA Triad | Model for securing data: Confidentiality, Integrity, Availability |
 | Least Privilege | Users are given the minimum levels of access needed |
-| Multi-factor Authentication (MFA) | Requires users to provide 2 or more forms of identification to gain access |
+| Multifactor Authentication (MFA) | Requires users to provide 2 or more forms of identification to gain access |
 | Non-Disclosure Agreement (NDA) | Legal agreement to ensure confidential information isn't shared |
 | Non-Repudiation | Ensures a person or system cannot deny actions they have performed |
-| AAA | Authentication, Authorisation and Accounting
+| AAA | Authentication, Authorisation and Accounting |
 
 ---
 
@@ -79,3 +79,12 @@
 
 - Refers to tracking and recording a user's activities.
 - E.g. access to resources, performed actions, and system usage.
+
+### Multifactor Authentication
+
+Requires at least 2 or more factors for authorisation:
+
+- SOMETHING YOU KNOW. Such as; passwords, PINs and security questions.
+- SOMETHING YOU HAVE. Such as; smartphones, smart cards and tokens.
+- SOMETHING YOU ARE. Such as; fingerprints, facial features andiris patterns.
+- SOMEWHERE YOU ARE. Such as; IP address, GPS and Wi-Fi location.
