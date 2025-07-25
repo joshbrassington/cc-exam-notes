@@ -14,9 +14,12 @@
 ## 🔑 Key Concepts
 
 - Confidentiality, Integrity, Availability (CIA Triad)
+- Non-repudiation
 - Least Privilege
 - Defense in Depth
 - Authentication, Authorization, and Accounting (AAA)
+- Professional code of conduct
+- Policies, procedures, standards, regulations and laws
 
 ---
 
