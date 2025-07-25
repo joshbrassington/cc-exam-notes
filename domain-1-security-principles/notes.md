@@ -45,3 +45,10 @@
 ## 📝 Notes
 
 > General notes and diagrams will be found here.
+
+### Non-Repudiation
+
+- Ensures a person or system cannot deny actions which they have performed. E.g. sending a message or signing a document.
+- Uses methods such as digital signatures and logs as proof of these actions.
+- Non-repudiation helps to build trust and accountability.
+- It holds people responsible for their actions. 
