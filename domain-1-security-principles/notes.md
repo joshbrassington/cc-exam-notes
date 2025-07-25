@@ -2,7 +2,7 @@
 
 ## 📖 Overview
 > Sections within this domain:
-> 
+
 1.  Security concepts of information assurance.
 2.  Risk management process.
 3.  Security controls.
@@ -32,6 +32,7 @@
 | Multi-factor Authentication (MFA) | Requires users to provide 2 or more forms of identification to gain access |
 | Non-Disclosure Agreement (NDA) | Legal agreement to ensure confidential information isn't shared |
 | Non-Repudiation | Ensures a person or system cannot deny actions they have performed |
+| AAA | Authentication, Authorisation and Accounting
 
 ---
 
@@ -55,9 +56,26 @@
 - Non-repudiation helps to build trust and accountability.
 - It holds people responsible for their actions.
 
-### Examples: 
+#### Examples: 
 
 1. Digital signatures
 2. Audit logs
 3. Biometric access
 4. Payment confirmations
+
+### AAA - Authentication, Authorisation and Accounting
+
+#### Authentication 
+
+- Process of verifying the identity of user, device, or system to ensure only authorised entities gain access to resources.
+- E.g. validating credentials such as passwords, biometrics and security tokens.
+
+#### Authorisation
+
+- Determining and granting a user's permission to access specific resources, actions, or use services based on the identity.
+- Tends to take place AFTER authentication.
+
+#### Accounting
+
+- Refers to tracking and recording a user's activities.
+- E.g. access to resources, performed actions, and system usage.
