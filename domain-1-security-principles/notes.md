@@ -46,9 +46,18 @@
 
 > General notes and diagrams will be found here.
 
+### Confidentiality, Integrity and Availability (CIA Triad) 
+
 ### Non-Repudiation
 
 - Ensures a person or system cannot deny actions which they have performed. E.g. sending a message or signing a document.
 - Uses methods such as digital signatures and logs as proof of these actions.
 - Non-repudiation helps to build trust and accountability.
-- It holds people responsible for their actions. 
+- It holds people responsible for their actions.
+
+#### Examples: 
+
+1. Digital signatures
+2. Audit logs
+3. Biometric access
+4. Payment confirmations
