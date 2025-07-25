@@ -11,7 +11,7 @@ Welcome to my study notes for the **ISC2 Certified in Cybersecurity (CC)** certi
 1. [Security Principles](domain-1-security-principles/notes.md)
 2. [Business Continuity, Disaster Recovery & Risk Management](domain-2-business-continuity-dr-risk-management/notes.md)
 3. [Access Control Concepts](domain-3-access-control-concepts/notes.md)
-4. [Network Security](./DOMAIN_4_Network_Security/notes.md)
+4. [Network Security](domain-4-network-security/notes.md)
 5. [Security Operations](./DOMAIN_5_Security_Operations/notes.md)
 
 ---
