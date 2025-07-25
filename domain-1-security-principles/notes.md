@@ -39,6 +39,7 @@
 | Annualised Loss Expectancy (ALE) | Projected annual financial loss from a specific risk |
 | Policies | High-level statements which define an organisations approach to security |
 | Standards | Mandatory and detailed rules which specify consistent methods, criteria or specifications to ensure implementation of policies across an organisation |
+| Procedures | Step-by-step instructions detailing how certain tasks/processes should be performed to comply with policies and standards |
 
 
 ---
