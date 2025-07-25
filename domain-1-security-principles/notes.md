@@ -1,12 +1,13 @@
 # DOMAIN 1: Security Principles
 
 ## 📖 Overview
-
-1.  Understand security concepts of information assurance
-2.  Understand the risk management process.
-3.  Understand security controls.
-4.  Understand ISC2 Code of Ethics.
-5.  Understand governance process.
+> Key aspects to understand within this domain:
+> 
+1.  Security concepts of information assurance.
+2.  Risk management process.
+3.  Security controls.
+4.  ISC2 Code of Ethics.
+5.  Governance process.
 
 ---
 
