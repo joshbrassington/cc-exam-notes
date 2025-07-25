@@ -126,3 +126,8 @@ Requires at least 2 or more factors for authorisation:
 - __Compensating__ controls give options to other controls which can help in enforcing security policies
 - __Corrective__ controls are the measures taken to fix security vulnerabilities or mitigate damage after an incident
 - __Directive__ controls are measures designed to guide behaviour and enforce compliance of security policies and procedures
+
+### ISC2 Code of Ethics
+
+__Purpose__: a set of principles which guide cybersecurity professionals in maintaining integrity, professionalism, and responsibility when protecting the public, organisations and the profession.
+> All information about the code of ethics can be found [here](https://www.isc2.org/ethics)
