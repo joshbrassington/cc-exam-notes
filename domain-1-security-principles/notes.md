@@ -55,7 +55,7 @@
 - Non-repudiation helps to build trust and accountability.
 - It holds people responsible for their actions.
 
-#### Examples: 
+### Examples: 
 
 1. Digital signatures
 2. Audit logs
