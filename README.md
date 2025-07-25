@@ -18,7 +18,7 @@ Welcome to my study notes for the **ISC2 Certified in Cybersecurity (CC)** certi
 
 ## 📌 Resources
 
-- [Glossary of Terms](./resources/glossary.md)
+- [Glossary of Terms](resources/glossary.md)
 - [Official ISC2 CC Exam Outline](https://www.isc2.org/Certifications/CC)
 
 ---
