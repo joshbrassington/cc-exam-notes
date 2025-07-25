@@ -30,6 +30,7 @@
 | CIA Triad | Model for securing data: Confidentiality, Integrity, Availability |
 | Least Privilege | Users are given the minimum levels of access needed |
 | Multi-factor Authentication (MFA) | Requires users to provide 2 or more forms of identification to gain access |
+| Non-Disclosure Agreement (NDA) | Legal agreement to ensure confidential information isn't shared |
 
 ---
 
