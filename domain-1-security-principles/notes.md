@@ -99,3 +99,14 @@ Requires at least 2 or more factors for authorisation:
 - Documenting and communicating risk-related information to stakeholders.
 - Has details of identified risks, their status, mitigation efforts and the potential impacts.
 - Helps stakeholders make informed decisions so resources can be prioritised for risk management.
+
+### Security Controls
+
+| Categories | Types |
+|------------|-------|
+| Technical | Preventive |
+| Managerial | Deterrent|
+| Operational | Detective |
+| Physical | Corrective |
+| | Compensating |
+| | Directive |
