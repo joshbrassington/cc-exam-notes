@@ -43,4 +43,4 @@
 
 ## 📝 Notes
 
-- Add any diagrams, mindmaps, or acronyms here.
+> General notes and diagrams will be found here.
