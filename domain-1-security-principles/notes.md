@@ -125,3 +125,4 @@ Requires at least 2 or more factors for authorisation:
 - __Detective__ controls discover/detect any unwanted or unauthorised activity
 - __Compensating__ controls give options to other controls which can help in enforcing security policies
 - __Corrective__ controls are the measures taken to fix security vulnerabilities or mitigate damage after an incident
+- __Directive__ controls are measures designed to guide behaviour and enforce compliance of security policies and procedures
