@@ -110,3 +110,18 @@ Requires at least 2 or more factors for authorisation:
 | Physical | Corrective |
 | | Compensating |
 | | Directive |
+
+#### Categories
+
+- __Techinal Controls__ include hardware or software used to manage access to resources and systems whilst providing protection for those resources and systems.
+- __Managerial Controls__ are policies and procedures defined by an organisations security policy.
+- __Operational Controls__ ensure day-to-day operations comply with overall security.
+- __Physical Controls__ are mechanisms focused on providing protection to the facility and real-world objects.
+
+#### Types
+
+- __Deterrent__ controls are deployed to discourage an attack
+- __Preventive__ controls are used to prevent/stop unwanted/unauthorised activity
+- __Detective__ controls discover/detect any unwanted or unauthorised activity
+- __Compensating__ controls give options to other controls which can help in enforcing security policies
+- __Corrective__ controls are the measures taken to fix security vulnerabilities or mitigate damage after an incident
