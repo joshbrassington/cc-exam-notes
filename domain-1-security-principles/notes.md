@@ -2,7 +2,11 @@
 
 ## 📖 Overview
 
-Fundamental security concepts and principles used in cybersecurity.
+1.  Understand security concepts of information assurance
+2.  Understand the risk management process.
+3.  Understand security controls.
+4.  Understand ISC2 Code of Ethics.
+5.  Understand governance process.
 
 ---
 
