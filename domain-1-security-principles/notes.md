@@ -33,6 +33,11 @@
 | Non-Disclosure Agreement (NDA) | Legal agreement to ensure confidential information isn't shared |
 | Non-Repudiation | Ensures a person or system cannot deny actions they have performed |
 | AAA | Authentication, Authorisation and Accounting |
+| Exposure Factor (EF) | Percentage of an asset's value that is lost due to a specific risk event |
+| Single Loss Expectancy (SLE) | Expected financial loss from a single risk event |
+| Annualised Rate of Occurrence (ARO) | Estimated numbre of times a specific risk it expected to occur in a year |
+| Annualised Loss Expectancy (ALE) | Projected annual financial loss from a specific risk |
+
 
 ---
 
@@ -88,3 +93,9 @@ Requires at least 2 or more factors for authorisation:
 - SOMETHING YOU HAVE. Such as; smartphones, smart cards and tokens.
 - SOMETHING YOU ARE. Such as; fingerprints, facial features andiris patterns.
 - SOMEWHERE YOU ARE. Such as; IP address, GPS and Wi-Fi location.
+
+### Risk Reporting
+
+- Documenting and communicating risk-related information to stakeholders.
+- Has details of identified risks, their status, mitigation efforts and the potential impacts.
+- Helps stakeholders make informed decisions so resources can be prioritised for risk management.
