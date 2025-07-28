@@ -184,3 +184,21 @@ __Purpose__: a set of principles which guide cybersecurity professionals in main
   - Follow best practices and standards specific to your industry, such as NIST or ISO 27001.
 
   - Participate in industry forums to stay updated on emerging threats and solutions.
+
+- __Local / Regional:__
+
+  - Align security measures with local or regional data.
+
+  - Consider the cultural and infrastructural factors impacting security in the region.
+
+- __National:__
+
+  - Comply with national cybersecurity frameworks such as CISA in the US, or ENISA in the EU.
+
+  - Stay informed about government-mandated security requirements and initiatives.
+
+- __Global:__
+
+  - Address cross-border data transfer regulations and international security standards.
+
+  - Monitor global cybersecurity trends and collaborate with international organisations for threat intelligence.
