@@ -24,6 +24,7 @@
 | DAC | Discretionary Access Control — owner controls access |
 | RBAC | Role-Based Access Control — based on user's role |
 | MFA | Requires two or more factors: something you know, have, are |
+| Principle of Least Privilege | Users/systems are granted only the minimum access necessary to perform their tasks |
 
 ---
 
