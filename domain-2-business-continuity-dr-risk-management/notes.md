@@ -44,3 +44,28 @@
 ### Business Continuity
 
 The purpose is to ensure continuous operations despite disruptions. Doing so helps to minimise financial losses and downtime. As a result it can help to maintain stakeholder confidence and compliance. It allows quick recovery from incidents.
+
+#### Business Continuity Plan (BCP)
+
+There are a number of components that make up a business continuity plan:
+
+**1. Business Impact Analysis (BIA):**
+
+- Identifies critical business functions and the impact of disruptions.
+- Prioritises recovery efforts based on risk and importance.
+
+**2. Recovery Strategies:**
+
+- Defines how to restore critical operations (e.g. backup systems, alternate sites)
+
+**3. Crisis Management Plan:**
+
+- Outlines roles, responsibilities, and communication protocols during a disruption.
+
+**4. Training and Awareness:**
+
+- Ensures employees understand their roles in the BC plan.
+
+**5. Testing and Maintenance:**
+
+- Regularly tests the plan to ensure effectiveness and updates it as needed.
