@@ -1,18 +1,21 @@
 # DOMAIN 3: Access Control Concepts
 
 ## 📖 Overview
+> Sections in this domain:
 
-Covers how users and systems are granted or denied access to resources in a secure manner.
+1. Physical Access Controls
+2. Logical Access Controls
 
 ---
 
 ## 🔑 Key Concepts
 
-- Authentication, Authorization, Accounting (AAA)
-- Access Control Models (DAC, MAC, RBAC, ABAC)
-- Multifactor Authentication (MFA)
-- Identity and Access Management (IAM)
-- Privileged Access
+- Physical security controls
+- Monitoring methods
+- Authorised vs. unauthorised personnel
+- Principle of least privilege
+- Segregation of duties
+- Discretionary access control (DAC), Mandatory access control (MAC), Role-based access control (RBAC)
 
 ---
 
