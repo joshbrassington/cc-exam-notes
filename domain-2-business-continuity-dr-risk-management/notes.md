@@ -39,7 +39,7 @@
 ---
 
 ## 📝 Notes
-> General notes and diagrams will be found here:
+> General notes and diagrams will be found here.
 
 - Add frameworks like NIST or ISO here
 - Example scenarios (e.g. how to handle ransomware incident)
