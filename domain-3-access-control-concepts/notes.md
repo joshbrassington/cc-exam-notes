@@ -10,12 +10,10 @@
 
 ## 🔑 Key Concepts
 
-- Physical security controls
-- Monitoring methods
-- Authorised vs. unauthorised personnel
-- Principle of least privilege
-- Segregation of duties
-- Discretionary access control (DAC), Mandatory access control (MAC), Role-based access control (RBAC)
+- Authentication, Authorisation, Accounting (AAA)
+- Access Control Methods (DAC, MAC, RBAC)
+- Identity and Access Management (IAM)
+- Privileged Access
 
 ---
 
