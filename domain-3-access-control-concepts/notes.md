@@ -61,3 +61,5 @@ There are many key components involved with physical security, they are as follo
 - **Access Control:** Implementing measures to restrict access to authorised personnel only.
 - **Perimeter Security:** Protection of the physical boundaries of a facility.
 - **Environmental Controls:** Maintains optimal environmental conditions are hardware and data. For example, climate control, fire suppression systems and power backup solutions.
+
+(14:15) - ISC2 Certified in Cybersecurity (CC) Free Course 2025 - Domain 3 (Computer Networks Decoded - YouTube)
