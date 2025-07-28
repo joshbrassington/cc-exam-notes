@@ -98,3 +98,7 @@ The purpose of this is to minimise downtime and ensure a rapid system recovery. 
 **5. Testing and Drills:**
   
 - Regluar testing of the DR plan to ensure effectiveness.
+
+### Incident Response
+
+The purpose of Incident Response (IR) is identify and contain threats quickly in order to minimise any damage to systems, data, and business operations. Incident response ensures rapid recovery after an incident has occurred. Security posture can be improved by learning from the incidents.
