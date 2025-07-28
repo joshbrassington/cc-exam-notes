@@ -27,6 +27,7 @@
 | Business Impact Analysis (BIA) | Process for identifying critical business functions and the impact of a disruption |
 | Risk | The potential for loss or damage when a threat exploits a vulnerability |
 | Business Continuity Plan (BCP) | A strategy to continue business operations during a disaster |
+| Disaster Recovery (DR) | A set of policies, tools, and procedures designed to restore IT infrastrcuture, systems, and data after a disaster or major disruption |
 
 ---
 
@@ -69,3 +70,5 @@ There are a number of components that make up a business continuity plan:
 **5. Testing and Maintenance:**
 
 - Regularly tests the plan to ensure effectiveness and updates it as needed.
+
+### Disaster Recovery
