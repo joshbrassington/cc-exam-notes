@@ -38,6 +38,4 @@
 ---
 
 ## 📝 Notes
-
-- Diagrams of authentication flows
-- IAM tools (e.g., Active Directory, SSO examples)
+> General notes and diagrams will be found here.
