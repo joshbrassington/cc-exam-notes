@@ -24,9 +24,9 @@
 
 | Term | Definition |
 |------|------------|
-| BIA | Process for identifying critical business functions and the impact of a disruption |
+| Business Impact Analysis (BIA) | Process for identifying critical business functions and the impact of a disruption |
 | Risk | The potential for loss or damage when a threat exploits a vulnerability |
-| BCP | A strategy to continue business operations during a disaster |
+| Business Continuity Plan (BCP) | A strategy to continue business operations during a disaster |
 
 ---
 
