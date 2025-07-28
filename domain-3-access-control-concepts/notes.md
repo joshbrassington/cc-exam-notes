@@ -25,6 +25,7 @@
 | RBAC | Role-Based Access Control — based on user's role |
 | MFA | Requires two or more factors: something you know, have, are |
 | Principle of Least Privilege | Users/systems are granted only the minimum access necessary to perform their tasks |
+| Segregation of Duties | Dividing of critical tasks among multiple users to prevent fraud, errors, and unauthorised actions |
 
 ---
 
