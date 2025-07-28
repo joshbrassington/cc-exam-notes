@@ -32,4 +32,13 @@
 
 ## 🧠 Exam Tips
 
-- 🔸
+- 🔸Know the **difference between BCP and DRP**
+- 🔸Understand the **risk treatment strategies**
+- 🔸Be familiar with **RTO (Recovery Time Objective)** and **RPO (Recovery Point Objective)**
+
+---
+
+## 📝 Notes
+
+- Add frameworks like NIST or ISO here
+- Example scenarios (e.g. how to handle ransomware incident)
