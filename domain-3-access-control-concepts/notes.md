@@ -47,3 +47,7 @@ The purpose of this concept is to limit potential damage from accidental OR mali
 ### Segregation of Duties
 
 The purpose is to ensure no individual has complete control over any sensitive operations which can reduce insider threats.
+
+### Discretionary Access Control (DAC)
+
+This provides a flexible access control model in wchih the **owner** of a resource is the one who determines who can access it and what actions they are able to perform.
