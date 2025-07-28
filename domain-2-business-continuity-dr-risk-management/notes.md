@@ -30,6 +30,7 @@
 | Disaster Recovery (DR) | A set of policies, tools, and procedures designed to restore IT infrastrcuture, systems, and data after a disaster or major disruption |
 | Recovery Time Objective (RTO) | The maximum acceptabe downtime for an IT system |
 | Recovery Point Objective (RPO) | The maxium acceptable data loss in time |
+| Incident Response (IR) | Structured approach to addressing and managing the aftermath of a cybersecurity incident |
 
 
 ---
@@ -80,6 +81,13 @@ The purpose of this is to minimise downtime and ensure a rapid system recovery. 
 
 #### Components of Disaster Recovery Plan (DRP):
 
-**1. Recovery Time Objective (RTO):**
-
-- This is the maxmium time which is acceptable for an IT system to be down.
+**1. Recovery Time Objective (RTO)**
+**2. Recovery Point Objective (RPO)**
+**3. Backup and Recovery Strategies:**
+- These are methods for backing up and restoring data.
+- E.g. cloud backups, off-site storage)
+**4. Disaster Recovery Sites:**
+- These are alternate locations for restoring IT operations.
+- E.g. hot sites, warm sites, cold sites)
+**5. Testing and Drills:**
+- Regluar testing of the DR plan to ensure effectiveness.
