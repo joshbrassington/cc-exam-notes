@@ -72,3 +72,5 @@ There are a number of components that make up a business continuity plan:
 - Regularly tests the plan to ensure effectiveness and updates it as needed.
 
 ### Disaster Recovery
+
+The purpose of this is to minimise downtime and ensure a rapid system recovery. It's used to restore critical IT operations after an incident so that the integrity of data can be protected and prevented from loss.
