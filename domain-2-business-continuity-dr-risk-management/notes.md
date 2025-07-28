@@ -108,3 +108,30 @@ The purpose of Incident Response (IR) is identify and contain threats quickly in
 - Detection & Containment
 - Remediation & Recovery
 - Post-Incident Learning
+
+#### Incident Response Plan Components:
+
+**1. Preparation:**
+
+- Establishes policies, tools, and training for the IR team.
+
+**2. Detection and Analysis:**
+
+- Identifies and assess the scope of the incident.
+
+**3. Containment:**
+
+- Limits the spread of the incident to prevent further damage.
+
+**4. Eradication:**
+
+- Removes the root cause of the incident.
+- E.g. malware, vulnerabilities
+
+**5. Recovery:**
+
+- Restores sytems and operations to normal.
+
+**6. Post-Incident Review:**
+
+- Analyses the incident to improve future responses and prevention.
