@@ -43,3 +43,7 @@
 ### Principle of Least Privilege
 
 The purpose of this concept is to limit potential damage from accidental OR malicious actions.
+
+### Segregation of Duties
+
+The purpose is to ensure no individual has complete control over any sensitive operations which can reduce insider threats.
