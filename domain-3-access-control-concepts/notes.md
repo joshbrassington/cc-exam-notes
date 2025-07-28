@@ -38,3 +38,7 @@
 
 ## 📝 Notes
 > General notes and diagrams will be found here.
+
+### Principle of Least Privilege
+
+The purpose of this concept is to limit potential damage from accidental OR malicious actions.
