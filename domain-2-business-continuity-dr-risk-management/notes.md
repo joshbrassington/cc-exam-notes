@@ -3,9 +3,9 @@
 ## 📖 Overview
 > Sections within this domain:
 
-1. Understand Business Continuity (BC)
-2. Understand Disaster Recovery (DR)
-3. Understand Incident Response
+1. Business Continuity (BC)
+2. Disaster Recovery (DR)
+3. Incident Response
 
 ---
 
