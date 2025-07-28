@@ -23,6 +23,7 @@
 |------|------------|
 | Discretionary Access Control (DAC) | Owner controls access |
 | Role-Based Access Control (RBAC) | Based on user's role |
+| Mandatory Access Control (MAC) | Access control model where permissions are enforced by a central authority |
 | Multifactor Authentication (MFA) | Requires two or more factors: something you know, have, are |
 | Principle of Least Privilege | Users/systems are granted only the minimum access necessary to perform their tasks |
 | Segregation of Duties (SoD) | Dividing of critical tasks among multiple users to prevent fraud, errors, and unauthorised actions |
