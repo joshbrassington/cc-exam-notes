@@ -41,5 +41,6 @@
 ## 📝 Notes
 > General notes and diagrams will be found here.
 
-- Add frameworks like NIST or ISO here
-- Example scenarios (e.g. how to handle ransomware incident)
+### Business Continuity
+
+The purpose is to ensure continuous operations despite disruptions. Doing so helps to minimise financial losses and downtime. As a result it can help to maintain stakeholder confidence and compliance. It allows quick recovery from incidents.
