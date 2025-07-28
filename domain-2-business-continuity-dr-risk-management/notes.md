@@ -8,12 +8,9 @@ Understanding how to maintain business functions and recover from disruptions th
 
 ## 🔑 Key Concepts
 
-- Business Impact Analysis (BIA)
-- Risk Identification and Assessment
-- Disaster Recovery Plans (DRP)
-- Business Continuity Plans (BCP)
-- Risk Mitigation Techniques
-- Risk Response Types (Accept, Avoid, Transfer, Mitigate)
+1. Understand Business Continuity (BC)
+2. Understand Disaster Recovery (DR)
+3. Understand Incident Response
 
 ---
 
