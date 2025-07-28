@@ -156,3 +156,31 @@ __Purpose__: a set of principles which guide cybersecurity professionals in main
 | Access Control Standard | Defines how access to systems, data, and resources is granted, managed, and revoked, including role-based access and least privilege principles |
 | Physical Security Standard | Establishes requirements for securing physical locations, such as badge access, surveillance cameras, and locked server rooms |
 | Encryption Standard | Specifies algorithms, key lengths, and protocols to protect data in transit and at rest |
+
+### Procedures - Examples:
+
+| Procedure | What it is / does |
+| -------- | ----------------- |
+| Change Management Procedure | Provides step-by-step instructions for requesting, evaluating, approving, and implementing changes to systems or processes to minimise risks and disruptions |
+| Onboarding / Offboarding Procedure | Details how to securely provision and deprovision user accounts, access rights, and equipment during employee hiring and termination |
+| Playbooks | Prescriptive guides for handling specific scenarios, such as responding to a phishing attackc, managing a malware outbreak, or conducting a forensic investigation |
+
+### External Consideration
+
+- __Regulatory:__
+
+  - Adhere to industry-specific regulations, such as HIPAA, GDPR, or PCI DSS, to ensure compliance.
+
+  - Regularly monitor regulatory changes to update policies and procedures.
+
+- __Legal:__
+
+  - Understand and comply with laws governing data, protections, privacy, and cybersecurity.
+
+  - Seek legal counsel to navigate complex jurisdictional requirements.
+
+- __Industry:__
+
+  - Follow best practices and standards specific to your industry, such as NIST or ISO 27001.
+
+  - Participate in industry forums to stay updated on emerging threats and solutions.
