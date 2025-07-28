@@ -28,6 +28,9 @@
 | Risk | The potential for loss or damage when a threat exploits a vulnerability |
 | Business Continuity Plan (BCP) | A strategy to continue business operations during a disaster |
 | Disaster Recovery (DR) | A set of policies, tools, and procedures designed to restore IT infrastrcuture, systems, and data after a disaster or major disruption |
+| Recovery Time Objective (RTO) | The maximum acceptabe downtime for an IT system |
+| Recovery Point Objective (RPO) | The maxium acceptable data loss in time |
+
 
 ---
 
@@ -73,4 +76,10 @@ There are a number of components that make up a business continuity plan:
 
 ### Disaster Recovery
 
-The purpose of this is to minimise downtime and ensure a rapid system recovery. It's used to restore critical IT operations after an incident so that the integrity of data can be protected and prevented from loss.
+The purpose of this is to minimise downtime and ensure a rapid system recovery. It's used to restore critical IT operations after an incident so that the integrity of data can be protected and prevented from loss. Disaster recovery also helps to support compliance. There are many regulations which **REQUIRE** organisations to have DR plans in place to protect sensitive data.
+
+#### Components of Disaster Recovery Plan (DRP):
+
+**1. Recovery Time Objective (RTO):**
+
+- This is the maxmium time which is acceptable for an IT system to be down.
