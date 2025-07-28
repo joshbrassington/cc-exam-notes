@@ -1,16 +1,22 @@
 # DOMAIN 2: Business Continuity (BC), Disaster Recovery (DR), and Risk Management
 
 ## 📖 Overview
+> Sections within this domain:
 
-Understanding how to maintain business functions and recover from disruptions through risk management, continuity planning, and disaster recovery.
+1. Understand Business Continuity (BC)
+2. Understand Disaster Recovery (DR)
+3. Understand Incident Response
 
 ---
 
 ## 🔑 Key Concepts
 
-1. Understand Business Continuity (BC)
-2. Understand Disaster Recovery (DR)
-3. Understand Incident Response
+- Business Impact Analysis (BIA)
+- Risk Identification and Assessment
+- Disaster Recovery Plans (DRP)
+- Business Continuity Plans (BCP)
+- Risk Mitigation Techniques
+- Risk Response Types (Accept, Avoid, Transfer, Mitigate)
 
 ---
 
