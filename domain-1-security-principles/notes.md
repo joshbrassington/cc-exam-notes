@@ -40,6 +40,7 @@
 | Policies | High-level statements which define an organisations approach to security |
 | Standards | Mandatory and detailed rules which specify consistent methods, criteria or specifications to ensure implementation of policies across an organisation |
 | Procedures | Step-by-step instructions detailing how certain tasks/processes should be performed to comply with policies and standards |
+| Guidelines | Recommendations that outline best practices and frameworks to follow for achieving security objectives |
 
 
 ---
@@ -134,3 +135,24 @@ Requires at least 2 or more factors for authorisation:
 
 __Purpose__: a set of principles which guide cybersecurity professionals in maintaining integrity, professionalism, and responsibility when protecting the public, organisations and the profession.
 > All information about the code of ethics can be found [here](https://www.isc2.org/ethics)
+
+### Policies - Examples:
+
+| Policy |  What it is / does |
+| ------ | ------------------ |
+| (AUP) Acceptable Use Policy | Defines acceptable and prohibited uses |
+| Information Security Policies | Policies that outline how the organisation protects its data and information systems from threats |
+| Business Continuity Policy | Ensures critical operations can continue during and after a disruption |
+| Diasaster Recovery Policy | Specifies how the organisation will recover IT systems and data after a disaster |
+| Incident Response Policy | Establishes processes for identifying, managing, and mitigating security incidents |
+| Software Development Lifecycle (SDLC) Policy | Outlines security measures and standards during the development, testing, and deployment of software |
+| Change Management Policy | Defines how changes and systems, applications, and condfigurations are requested, evaluated, approved, and implemented |
+
+### Standards - Examples:
+
+| Standard | What it is / does |
+| -------- | ----------------- |
+| Password Standard | Specifies requirements for password creation, such as minimum length, complexity, expiration, and reuse prevention |
+| Access Control Standard | Defines how access to systems, data, and resources is granted, managed, and revoked, including role-based access and least privilege principles |
+| Physical Security Standard | Establishes requirements for securing physical locations, such as badge access, surveillance cameras, and locked server rooms |
+| Encryption Standard | Specifies algorithms, key lengths, and protocols to protect data in transit and at rest |
