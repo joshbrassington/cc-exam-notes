@@ -30,6 +30,7 @@
 | Intrusion Detection System (IDS) | Monitors for malicious activity |
 | Virtual Private Network (VPN) | Creates an encrypted tunnel between networks or devices |
 | Demilitarised Zone (DMZ) | A buffer zone between internal and external networks |
+| Open Systems Interconnection (OSI) Model | Framework that standardises network communication |
 
 ---
 
@@ -44,3 +45,7 @@
 ## 📝 Notes
 > General notes and diagrams will be found here.
 
+### Open Systems Interconnection (OSI) Model
+
+- Standardises network communication.
+- Ensures interoperability between different devices and systems.
