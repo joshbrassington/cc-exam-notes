@@ -31,6 +31,7 @@
 | Virtual Private Network (VPN) | Creates an encrypted tunnel between networks or devices |
 | Demilitarised Zone (DMZ) | A buffer zone between internal and external networks |
 | Open Systems Interconnection (OSI) Model | Framework that standardises network communication |
+| Transmission Control Protocol (TCP) / Internet Protocol (IP) Model | Foundtaional framework for the internet and modern networking |
 
 ---
 
@@ -80,3 +81,5 @@ There are 7 layers, as follows:
 #### **7. Physical Layer (Layer 1):**
 - Transmission of raw bits.
 - Cables, Wireless signals, Hubs, Repeaters
+
+### TCP / IP Model
