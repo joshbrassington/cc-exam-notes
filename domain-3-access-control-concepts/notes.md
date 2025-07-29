@@ -62,4 +62,16 @@ There are many key components involved with physical security, they are as follo
 - **Perimeter Security:** Protection of the physical boundaries of a facility.
 - **Environmental Controls:** Maintains optimal environmental conditions are hardware and data. For example, climate control, fire suppression systems and power backup solutions.
 
-(14:15) - ISC2 Certified in Cybersecurity (CC) Free Course 2025 - Domain 3 (Computer Networks Decoded - YouTube)
+#### Access Badges
+
+- Verify the identity of any individuals entering secured areas.
+- Configurable to allow entry to specific zones based on an individuals roles and permissions.
+- Badge usage can be logged and monitored to help with incident investigation.
+- Can be integrated with PINs / biometrics.
+- Works as a visible reminder of an organisations security protocols.
+- Can easily be deactivated if a badge is lost or stolen.
+
+#### Video Surveillance
+
+- Provide a way to monitor and record a property perimeter.
+- These are considered **detective** physical controls. However, their presence can also be a **deterrent**.
