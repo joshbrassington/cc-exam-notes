@@ -105,3 +105,16 @@ The layers are as follows:
 **4. Network Access Layer (Layer 1):**
 - Defines physical transmission
 - Ethernet, Wi-Fi, ARP, MAC addressing
+
+### OSI & TCP/IP - Comparison:
+
+#### Similarities:
+
+- Both layered models for network communication.
+- Use encapsulation and de-capsulation.
+
+#### Differences:
+
+- TCP/IP is more practical and widely used.
+- OSI more theoretical.
+- TCP/IP combines the __presentation__ and __session__ layers into __application__ layer.
