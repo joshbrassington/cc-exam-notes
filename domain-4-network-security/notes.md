@@ -87,3 +87,21 @@ There are 7 layers, as follows:
 - Developed by US Department of Defence to ensure reliable communication.
 - There are 4 layers which map closely to the OSI model.
 - Was designed to standardise end-to-end communication across interconnected networks.
+
+The layers are as follows:
+
+**1. Application Layer (Layer 4):**
+- Handles high-level protocols.
+- HTTP, FTP, SMTP, DNS
+
+**2. Transport Layer (Layer 3):**
+- Manages end-to-end communication.
+- TCP for reliability, UDP for speed
+
+**3. Internet Layer (Layer 2):**
+- Handles addressing, routing and packet forwarding
+- IP, ICMP
+
+**4. Network Access Layer (Layer 1):**
+- Defines physical transmission
+- Ethernet, Wi-Fi, ARP, MAC addressing
