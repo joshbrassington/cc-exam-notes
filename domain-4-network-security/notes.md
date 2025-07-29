@@ -83,3 +83,7 @@ There are 7 layers, as follows:
 - Cables, Wireless signals, Hubs, Repeaters
 
 ### TCP / IP Model
+
+- Developed by US Department of Defence to ensure reliable communication.
+- There are 4 layers which map closely to the OSI model.
+- Was designed to standardise end-to-end communication across interconnected networks.
