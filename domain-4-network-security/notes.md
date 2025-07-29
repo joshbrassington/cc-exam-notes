@@ -42,6 +42,5 @@
 ---
 
 ## 📝 Notes
+> General notes and diagrams will be found here.
 
-- Draw a sample secure network topology
-- Protocols cheat sheet (FTP, SSH, Telnet, DNS, etc.)
