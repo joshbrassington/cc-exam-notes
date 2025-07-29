@@ -1,18 +1,25 @@
 # DOMAIN 4: Network Security
 
 ## 📖 Overview
+> Sections in this domain:
 
-Focuses on how networks are designed and protected to prevent unauthorized access, attacks, and data loss.
+1. Computer Networking
+2. Network Threats and Attacks
+3. Network Security Infrastructure
 
 ---
 
 ## 🔑 Key Concepts
 
 - Firewalls, Routers, Switches
+- Threat Types
+- Networks (OSI model, TCP/IP, IPv4, IPv6, Wi-Fi)
+- Ports and Applications
 - IDS/IPS (Intrusion Detection/Prevention Systems)
 - VPNs and Secure Protocols
 - Network Segmentation and DMZ
 - IP Addressing and Subnetting Basics
+- Cloud
 
 ---
 
@@ -20,9 +27,9 @@ Focuses on how networks are designed and protected to prevent unauthorized acces
 
 | Term | Definition |
 |------|------------|
-| IDS | Intrusion Detection System — monitors for malicious activity |
-| VPN | Creates an encrypted tunnel between networks or devices |
-| DMZ | A buffer zone between internal and external networks |
+| Intrusion Detection System (IDS) | Monitors for malicious activity |
+| Virtual Private Network (VPN) | Creates an encrypted tunnel between networks or devices |
+| Demilitarised Zone (DMZ) | A buffer zone between internal and external networks |
 
 ---
 
