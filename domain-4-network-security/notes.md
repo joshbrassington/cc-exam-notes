@@ -49,3 +49,34 @@
 
 - Standardises network communication.
 - Ensures interoperability between different devices and systems.
+- Simplifies the troubleshooting process by isolating issues to specific layers.
+
+There are 7 layers, as follows:
+
+#### **1. Application Layer (Layer 7):**
+- Interfaces with applications.
+- E.g. HTTP, FTP, SMTP)
+
+#### **2. Presentation Layer (Layer 6):**
+- Data formatting, encryption, compression.
+- JPEG, MPEG, SSL/TLS
+
+#### **3. Session Layer (Layer 5):**
+- Manages sessions and connections.
+- NetBIOS, PRC
+
+#### **4. Transport Layer (Layer 4):**
+- Ensures reliable transmission.
+- TCP/UDP
+
+#### **5. Network Layer (Layer 3):**
+- Routing and addressing.
+- IP, ICMP, Routers
+
+#### **6. Data Link Layer (Layer 2):**
+- Error detection and MAC addressing.
+- Ethernet, MAC, Switches
+
+#### **7. Physical Layer (Layer 1):**
+- Transmission of raw bits.
+- Cables, Wireless signals, Hubs, Repeaters
