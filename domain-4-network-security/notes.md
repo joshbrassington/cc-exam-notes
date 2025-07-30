@@ -32,6 +32,7 @@
 | Demilitarised Zone (DMZ) | A buffer zone between internal and external networks |
 | Open Systems Interconnection (OSI) Model | Framework that standardises network communication |
 | Transmission Control Protocol (TCP) / Internet Protocol (IP) Model | Foundtaional framework for the internet and modern networking |
+| Internet Protocol version 4 (IPv4) | Most widely used protocol for addressing devices on a network |
 
 ---
 
@@ -118,3 +119,5 @@ The layers are as follows:
 - TCP/IP is more practical and widely used.
 - OSI more theoretical.
 - TCP/IP combines the __presentation__ and __session__ layers into __application__ layer.
+
+### IPv4 (Internet Protocol version 4)
