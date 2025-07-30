@@ -44,6 +44,9 @@
 | Spyware | Malicious software designed to secretly monitor and collect user data without consent |
 | Bloatware | Pre-installed or unnecessary software on devices that consumes system resources and may pose security risks |
 | Virus | Malicious software that attaches itself to legitimate programs or files and spreads when the host is executed, causing damage or disruption |
+| Logic Bomb | Malicious code embedded within a legitimate program that activates when specific conditions are met, such as a date or user action |
+| Rootkit | Stealthy malware designed to gain and maintain privileged access to a system while hiding its presence from detection tools |
+| Man-in-the-Middle (MITM) | Attacker intercepts communication between two devices, often to steal data |
 
 ---
 
@@ -216,3 +219,17 @@ The layers are as follows:
 - In networking, applications refer to software and protocols which enable communication over a network.
 - These operate at the **Application Layer (Layer 7)** of the OSI model.
 - Use underlying transport protocols (TCP/UDP)
+
+### Intrusion Detection System (IDS)
+
+- Helps to detect cyber threats.
+- E.g. unauthorised access, malware, policy violations.
+
+#### HIDS vs. NIDS
+
+| Feature | HIDS | NIDS |
+| ------- | ---- | ---- |
+| Scope | Monitors a specific device (e.g. servers, workstations) | Monitors network traffic for multiple devices |
+| Function | Detects locall threats, unauthorised changes, and system file modifications | Detects malicious network activity and traffic anomalies |
+| Placement | Installed on individual hosts (endpoints) | Deployed network entry points (e.g. firewalls, switches) |
+| Examples | OSSEC, Tripwire | Snort, Suricata |
