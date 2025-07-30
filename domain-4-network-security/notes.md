@@ -147,3 +147,4 @@ The layers are as follows:
 
 - Uses **128-bit addressing scheme**, allows for **340 undecillion unique addresses**.
 - Written in **hexadecimal format** (e.g. 2001:0db8:85a3::85a3::8a2e:0370:7334).
+- Connectionless and operates at the **Network Layer (Layer 3)** of the OSI model.
