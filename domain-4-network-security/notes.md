@@ -33,6 +33,7 @@
 | Open Systems Interconnection (OSI) Model | Framework that standardises network communication |
 | Transmission Control Protocol (TCP) / Internet Protocol (IP) Model | Foundtaional framework for the internet and modern networking |
 | Internet Protocol version 4 (IPv4) | Most widely used protocol for addressing devices on a network |
+| Internet Protocol version 6 (IPv6) | Successor to IPv4, designed to solve address exhaustion |
 
 ---
 
@@ -141,3 +142,8 @@ The layers are as follows:
 - **NAT (Network Address Translation)** - allows multiple devices to share a single public IP.
 - **CIDR (Classless Inter-Domain Routing)** - efficient allocation of IP addresses.
 - **IPv6 Adoption** - the next-gen protocol that has a 128-bit address space.
+
+### IPv6 (Internet Protocol version 6)
+
+- Uses **128-bit addressing scheme**, allows for **340 undecillion unique addresses**.
+- Written in **hexadecimal format** (e.g. 2001:0db8:85a3::85a3::8a2e:0370:7334).
