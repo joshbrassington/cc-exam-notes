@@ -121,3 +121,5 @@ The layers are as follows:
 - TCP/IP combines the __presentation__ and __session__ layers into __application__ layer.
 
 ### IPv4 (Internet Protocol version 4)
+
+- Addresses are written in dotted decimal format (e.g. 192.168.1.1).
