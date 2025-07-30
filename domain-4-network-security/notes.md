@@ -201,3 +201,9 @@ The layers are as follows:
 - Close any unused ports.
 - Filter traffic with firewalls.
 - Update services regularly.
+
+### Applications
+
+- In networking, applications refer to software and protocols which enable communication over a network.
+- These operate at the **Application Layer (Layer 7)** of the OSI model.
+- Use underlying transport protocols (TCP/UDP)
