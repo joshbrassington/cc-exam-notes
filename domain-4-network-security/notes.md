@@ -184,3 +184,9 @@ The layers are as follows:
 | Well-known ports | 0 - 1023 |
 | Registered ports | 1024 - 49151 |
 | Dynamic ports | 49152 - 65565 |
+
+#### Common Port Examples:
+
+- 80 (HTTP), 443 (HTTPS)
+- 21 (FTP), 22 (SSH)
+- 25 (SMTP), 53 (DNS)
