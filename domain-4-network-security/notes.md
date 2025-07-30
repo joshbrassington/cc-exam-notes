@@ -36,6 +36,14 @@
 | Internet Protocol version 6 (IPv6) | Successor to IPv4, designed to solve address exhaustion |
 | Ports | Virtual endpoints for communication in networked devices |
 | Distributed Denial-of-Service (DDoS) | Overwhelming a target's network or serviceis with massive amounts of traffic from multiple sources to disrupt operations |
+| Amplified DDoS | Using vulnerable servers to magnify attack traffic by sending small requests that result in large responses directed at the victim |
+| Reflected DDoS | Exploiting legitimate servers to reflect traffic to the target by spoofing the victim's IP address |
+| Ransomware | Malicious software that encrypts a victim's files or locks their system, demanding a ransom for decryption |
+| Trojan | Type of malware disguised as a legitimate program or file, designed to gain unauthorised access to a system or steal sensitive data |
+| Worm | Self-replicating malware that spreads across networks without user intervention, often exploiting vulnerabilities in software or systems |
+| Spyware | Malicious software designed to secretly monitor and collect user data without consent |
+| Bloatware | Pre-installed or unnecessary software on devices that consumes system resources and may pose security risks |
+| Virus | Malicious software that attaches itself to legitimate programs or files and spreads when the host is executed, causing damage or disruption |
 
 ---
 
