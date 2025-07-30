@@ -190,3 +190,14 @@ The layers are as follows:
 - 80 (HTTP), 443 (HTTPS)
 - 21 (FTP), 22 (SSH)
 - 25 (SMTP), 53 (DNS)
+
+#### Security
+
+- Open ports can be used as attack vectors.
+- Service vulnerabilities.
+
+#### Best Practices:
+
+- Close any unused ports.
+- Filter traffic with firewalls.
+- Update services regularly.
