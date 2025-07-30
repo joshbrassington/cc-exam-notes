@@ -51,6 +51,8 @@
 | Memorandum of Understanding (MOU) | Informal agreement between parties - defines roles, responsibilities, and intent but is not legally binding |
 | Memorandum of Agreement (MOA) | More formal than MOU, often legally binding - specifies specific actions and obligations |
 | Segmentation | Divides a network into smaller, isolated segments |
+| Network Access Control (NAC) | Ensures only authorised devices can connect to a network |
+| Service-Level Agreement (SLA) | Contract between a cloud provider and customer outlining service expectations |
 
 ---
 
@@ -252,3 +254,10 @@ The layers are as follows:
 ### Segmentation
 
 - Purpose is to limit spread of attacks, improve network performance and control traffic flow.
+
+### Cloud Service Models:
+
+- Infrastructure as a Service (IaaS)
+- Platform as a Service (PaaS)
+- Software as a Service (SaaS)
+- Function as a Service (FaaS)
