@@ -34,6 +34,7 @@
 | Transmission Control Protocol (TCP) / Internet Protocol (IP) Model | Foundtaional framework for the internet and modern networking |
 | Internet Protocol version 4 (IPv4) | Most widely used protocol for addressing devices on a network |
 | Internet Protocol version 6 (IPv6) | Successor to IPv4, designed to solve address exhaustion |
+| Ports | Virtual endpoints for communication in networked devices |
 
 ---
 
@@ -171,3 +172,15 @@ The layers are as follows:
 - **WEP (Weak), WPA, WPA2, WPA3**: Encryption for secure connections.
 - **MAC Filtering**: Restricts devices based on MAC addresses.
 - **SSID Hiding**: Conceals network name from public visibility.
+
+### Ports
+
+- Allow multiple services to run on a single IP address.
+- 16-bit numbers (0 to 65535)
+- Part of the transport layer (TCP/UDP)
+
+|      |      |
+| ---- | ---- |
+| Well-known ports | 0 - 1023 |
+| Registered ports | 1024 - 49151 |
+| Dynamic ports | 49152 - 65565 |
