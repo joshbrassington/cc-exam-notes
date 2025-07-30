@@ -50,6 +50,7 @@
 | Man-in-the-Middle (MITM) | Attacker intercepts communication between two devices, often to steal data |
 | Memorandum of Understanding (MOU) | Informal agreement between parties - defines roles, responsibilities, and intent but is not legally binding |
 | Memorandum of Agreement (MOA) | More formal than MOU, often legally binding - specifies specific actions and obligations |
+| Segmentation | Divides a network into smaller, isolated segments |
 
 ---
 
@@ -247,3 +248,7 @@ The layers are as follows:
 - Scans and Security Audits
 - Firewalls
 - Intrusion Prevention System (IPS)
+
+### Segmentation
+
+- Purpose is to limit spread of attacks, improve network performance and control traffic flow.
