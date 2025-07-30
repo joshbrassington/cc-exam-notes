@@ -124,3 +124,13 @@ The layers are as follows:
 
 - Addresses are written in dotted decimal format (e.g. 192.168.1.1).
 - Connectionless and operates at the **Network Layer (Layer 3)** of the OSI model.
+
+#### IPv4 Classes
+
+| Class | First Octet Range | Max No. of Hosts Per Network | No. of Networks |
+| ----- | ----------------- | ---------------------------- | --------------- |
+| A | 1 - 126 | 16,777,214 | 128 (excluding 0 and 127) |
+| B | 128 - 191 | 65,534 | 16,384 |
+| C | 192 - 223 | 254 | 2,097,152 |
+| D | 224 - 239 | N/A (Multicast) | N/A |
+| E | 240 - 255 | N/A (Reserved) | N/A |
