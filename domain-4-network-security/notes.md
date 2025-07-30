@@ -123,3 +123,4 @@ The layers are as follows:
 ### IPv4 (Internet Protocol version 4)
 
 - Addresses are written in dotted decimal format (e.g. 192.168.1.1).
+- Connectionless and operates at the **Network Layer (Layer 3)** of the OSI model.
