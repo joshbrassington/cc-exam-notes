@@ -153,3 +153,10 @@ The layers are as follows:
 
 - No NAT needed.
 - **Built-in security:** IPSec is mandatory for IPv6.
+- **Auto-configuration**
+- Better multicase and anycast capabilities.
+
+#### Challenges
+
+- **Compatability issues** with older IPv4 networks.
+- **Slow transition** due to infrastructure upgrades.
