@@ -134,3 +134,10 @@ The layers are as follows:
 | C | 192 - 223 | 254 | 2,097,152 |
 | D | 224 - 239 | N/A (Multicast) | N/A |
 | E | 240 - 255 | N/A (Reserved) | N/A |
+
+#### Limitations
+
+- 32-bit address space allows for ~ 4.3 billion addresses (not enough for growing number of devices).
+- **NAT (Network Address Translation)** - allows multiple devices to share a single public IP.
+- **CIDR (Classless Inter-Domain Routing)** - efficient allocation of IP addresses.
+- **IPv6 Adoption** - the next-gen protocol that has a 128-bit address space.
