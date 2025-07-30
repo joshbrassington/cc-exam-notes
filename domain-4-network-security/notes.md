@@ -160,3 +160,14 @@ The layers are as follows:
 
 - **Compatability issues** with older IPv4 networks.
 - **Slow transition** due to infrastructure upgrades.
+
+### Wi-Fi
+
+- Wireless networking technology which allows devices to connect to the internet without physical cables.
+- Operates under the **IEEE 802.11** standard.
+
+#### Wi-Fi Security Measures:
+
+- **WEP (Weak), WPA, WPA2, WPA3**: Encryption for secure connections.
+- **MAC Filtering**: Restricts devices based on MAC addresses.
+- **SSID Hiding**: Conceals network name from public visibility.
