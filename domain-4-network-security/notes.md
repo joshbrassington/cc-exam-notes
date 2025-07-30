@@ -35,6 +35,7 @@
 | Internet Protocol version 4 (IPv4) | Most widely used protocol for addressing devices on a network |
 | Internet Protocol version 6 (IPv6) | Successor to IPv4, designed to solve address exhaustion |
 | Ports | Virtual endpoints for communication in networked devices |
+| Distributed Denial-of-Service (DDoS) | Overwhelming a target's network or serviceis with massive amounts of traffic from multiple sources to disrupt operations |
 
 ---
 
