@@ -28,6 +28,7 @@
 | Term | Definition |
 |------|------------|
 | Intrusion Detection System (IDS) | Monitors for malicious activity |
+| Intrusion Prevention System (IPS) | Actively blocks threats before they cause damage |
 | Virtual Private Network (VPN) | Creates an encrypted tunnel between networks or devices |
 | Demilitarised Zone (DMZ) | A buffer zone between internal and external networks |
 | Open Systems Interconnection (OSI) Model | Framework that standardises network communication |
@@ -47,6 +48,8 @@
 | Logic Bomb | Malicious code embedded within a legitimate program that activates when specific conditions are met, such as a date or user action |
 | Rootkit | Stealthy malware designed to gain and maintain privileged access to a system while hiding its presence from detection tools |
 | Man-in-the-Middle (MITM) | Attacker intercepts communication between two devices, often to steal data |
+| Memorandum of Understanding (MOU) | Informal agreement between parties - defines roles, responsibilities, and intent but is not legally binding |
+| Memorandum of Agreement (MOA) | More formal than MOU, often legally binding - specifies specific actions and obligations |
 
 ---
 
@@ -233,3 +236,14 @@ The layers are as follows:
 | Function | Detects locall threats, unauthorised changes, and system file modifications | Detects malicious network activity and traffic anomalies |
 | Placement | Installed on individual hosts (endpoints) | Deployed network entry points (e.g. firewalls, switches) |
 | Examples | OSSEC, Tripwire | Snort, Suricata |
+
+### Prevention
+
+- Prevention methods proactively protect systems from cyber threats.
+
+#### Examples:
+
+- Antvirus Software
+- Scans and Security Audits
+- Firewalls
+- Intrusion Prevention System (IPS)
