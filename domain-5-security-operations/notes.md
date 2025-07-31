@@ -179,3 +179,4 @@ Ensures communication between a browser and a website remains secure.
 - Program designed to educate employees about cybersecurity risks.
 - Helps employees recognise and respond to security threats.
 - Reduces human error, which is a leading cause of security breaches.
+- Encourages a security-first mindset across the organisation.
