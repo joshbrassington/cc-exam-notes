@@ -37,6 +37,8 @@
 | Transparent Data Encryption (TDE) | Encrypts database files automatically at the storage level |
 | Secure Sockets Layer (SSL) | Encrypts data transmitted between a user's device and a server |
 | Hypertext Transfer Protocol Secure (HTTPS) | Secure version of HTTP that uses SSL/TLS to encrypt web traffic |
+| Symmetric Encryption | Uses the same key (shared secret) for both encryption and decryption |
+| Asymmetric Encryption | Uses a pair of keys - public & private key pair |
 
 ---
 
@@ -79,3 +81,5 @@ Ensures communication between a browser and a website remains secure.
 
 - This refers to the safeguarding of data while it is being actively accessed, processed, or used in memory.
 - Critical as data is typically decrypted during this stage, making it vulnerable to attacks.
+
+### Symmetric vs. Asymmetric Encryption
