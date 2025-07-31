@@ -1,8 +1,12 @@
 # DOMAIN 5: Security Operations
 
 ## 📖 Overview
+> Sections in this domain:
 
-Covers ongoing activities used to protect systems, detect incidents, and respond to security events.
+1. Data Security
+2. System Hardening
+3. Best Practice Security Policies
+4. Security Awareness Training
 
 ---
 
