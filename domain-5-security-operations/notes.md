@@ -40,6 +40,8 @@
 | Symmetric Encryption | Uses the same key (shared secret) for both encryption and decryption |
 | Asymmetric Encryption | Uses a pair of keys - public & private key pair |
 | Trusted Platform Module (TPM) | Dedicated microchip designed to secure hardware by storing cryptographic keys and other sensitive data |
+| Hardware Security Module (HSM) | Physical device used to generate, store and manage cryptographic keys securely |
+| Hashing | Converts data into a fixed-length string using a mathematical function |
 
 ---
 
@@ -103,3 +105,23 @@ Ensures communication between a browser and a website remains secure.
 - Encrypts the data one bit or byte at a time, continuously.
 - Faster and more efficient for real-time applications.
 - Often used in applications requiring high-speed encryption.
+
+### Hashing
+
+- One-way process; cannot be reversed to reveal original data.
+- Used for data integrity checks and password storage.
+- E.g. SHA-256, MD5.
+
+### Data Handling
+
+- Data handling refers to policies and procedures to manage data throughout its lifecycle.
+
+### Data Classification
+
+- This is categorising data based on its sensitivity, importance and regulatory requirements.
+- **Common classification** levels are as follows:
+
+1. **Public** - accessible to anyone
+2. **Internal / Confidential** - restricted to employees
+3. **Sensitive** - requires extra protection
+4. **Regulated / Highly Sensitive** - legally protected
