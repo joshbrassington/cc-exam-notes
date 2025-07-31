@@ -131,3 +131,8 @@ Ensures communication between a browser and a website remains secure.
 - This is where you assign visual or metadata-based tags to indicate classification.
 - Helps employees and systems recognise and handle data appropriately.
 - Prevents any accidental data exposure.
+
+### Data Retention
+
+- Policies defining how long data should be stored before deletion.
+- Types of policies include; **short-term**, **long-term** and **indefinite retention**.
