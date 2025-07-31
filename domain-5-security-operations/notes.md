@@ -39,6 +39,7 @@
 | Hypertext Transfer Protocol Secure (HTTPS) | Secure version of HTTP that uses SSL/TLS to encrypt web traffic |
 | Symmetric Encryption | Uses the same key (shared secret) for both encryption and decryption |
 | Asymmetric Encryption | Uses a pair of keys - public & private key pair |
+| Trusted Platform Module (TPM) | Dedicated microchip designed to secure hardware by storing cryptographic keys and other sensitive data |
 
 ---
 
@@ -96,3 +97,9 @@ Ensures communication between a browser and a website remains secure.
 - Encrypts data in fixed-size blocks.
 - Processes plaintext in chunks, applying the same encryption algorithm to each block.
 - Slower but more secure for bulk data encryption.
+
+### Stream Ciphers
+
+- Encrypts the data one bit or byte at a time, continuously.
+- Faster and more efficient for real-time applications.
+- Often used in applications requiring high-speed encryption.
