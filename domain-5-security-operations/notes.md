@@ -136,3 +136,10 @@ Ensures communication between a browser and a website remains secure.
 
 - Policies defining how long data should be stored before deletion.
 - Types of policies include; **short-term**, **long-term** and **indefinite retention**.
+
+### Data Handling - Summary:
+
+- **Classify** --> Know your data
+- **Label** --> Enable proper handling
+- **Retain** --> Only as long as needed
+- **Destroy** --> Beyond recovery
