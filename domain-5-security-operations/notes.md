@@ -33,6 +33,8 @@
 | Encryption | Process of converting plaintext into ciphertext to protect data |
 | Full Disk Encryption (FDE) | Encrypts entire contents of storage device |
 | Self-Encrypting Drive (SED) | Hardware-based encryption method - drive automatically encrypts and decrypts data |
+| Cloud Storage Encryption | Encrypts data stored in the cloud |
+| Transparent Data Encryption (TDE) | Encrypts database files automatically at the storage level |
 
 ---
 
