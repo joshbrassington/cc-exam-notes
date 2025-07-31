@@ -13,10 +13,13 @@
 ## 🔑 Key Concepts
 
 - Incident Response (IR) Process
+- Encryption Methods
 - Logging and Monitoring
 - Patch and Vulnerability Management
 - Malware Prevention and Detection
 - Security Awareness Training
+- Configuration
+- Best Practice Policies
 
 ---
 
@@ -39,6 +42,4 @@
 ---
 
 ## 📝 Notes
-
-- Example response plan for a phishing attack
-- Patch cycle flow diagram
+> General notes and diagrams will be found here.
