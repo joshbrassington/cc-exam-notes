@@ -47,6 +47,9 @@
 | Data Loss Prevention (DLP) | Tools to prevent unauthorised data transfer or access |
 | Simple Network Management Protocol (SNMP) Traps | Notifications sent by devices to a management system when predefined events occur |
 | Netflow | Protocol for collecting and analysing IP network traffic data |
+| Acceptable Use Policy (AUP) | Defines permitted and prohibited use of company resources |
+| Bring Your Own Device (BYOD) | Manages security risks when employees use personal devices for work |
+| Privacy Policy | Defines how personal data is collected, stored, and shared |
 
 ---
 
@@ -155,3 +158,24 @@ Ensures communication between a browser and a website remains secure.
 - Ensures systems are configured correctly and consistently.
 - Prevents security vulnerabilities due to misconfiguration.
 - Key for compliance with security frameworks (NIST) CIS, ISO 27001)
+
+#### Key Components:
+
+1. **Baselines -** standardised system configurations.
+2. **Updates -** routine enhancements and minor fixes.
+3. **Patches -** security fixes to address vulnerabilities.
+4. **Change Control -** ensuring authorised changes only.
+5. **Configuration Auditing -** monitoring deviations from the baseline.
+
+### Best Practices for Security Policies
+
+- Regularly update policies to align with emerging threats.
+- Ensure policies comply with indistry regulations (GDPR, CCPA, HIPAA).
+- Train employees on security policies and enforce compliance.
+- Use monitoring tools to detect policy violations.
+
+### Security Awareness Training
+
+- Program designed to educate employees about cybersecurity risks.
+- Helps employees recognise and respond to security threats.
+- Reduces human error, which is a leading cause of security breaches.
