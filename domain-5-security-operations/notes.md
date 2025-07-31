@@ -32,6 +32,7 @@
 | IR | The process for detecting, responding to, and recovering from incidents |
 | Encryption | Process of converting plaintext into ciphertext to protect data |
 | Full Disk Encryption (FDE) | Encrypts entire contents of storage device |
+| Self-Encrypting Drive (SED) | Hardware-based encryption method - drive automatically encrypts and decrypts data |
 
 ---
 
