@@ -30,6 +30,8 @@
 | SIEM | Security Information and Event Management system |
 | SOC | Security Operations Center — central unit for security monitoring |
 | IR | The process for detecting, responding to, and recovering from incidents |
+| Encryption | Process of converting plaintext into ciphertext to protect data |
+| Full Disk Encryption (FDE) | Encrypts entire contents of storage device |
 
 ---
 
@@ -43,3 +45,17 @@
 
 ## 📝 Notes
 > General notes and diagrams will be found here.
+
+### Encrpytion
+
+- Used to ensure **confidentiality**, **integrity** and **authenticity** of information.
+
+#### Key Components:
+
+- **Algorithm** (e.g. AES, RSA)
+- **Encryption Key** (public/private or symmetric)
+
+#### Types:
+
+- **Symmetric** (single key)
+- **Asymmetric** (public-private key pair)
