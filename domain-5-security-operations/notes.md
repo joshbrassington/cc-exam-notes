@@ -35,6 +35,8 @@
 | Self-Encrypting Drive (SED) | Hardware-based encryption method - drive automatically encrypts and decrypts data |
 | Cloud Storage Encryption | Encrypts data stored in the cloud |
 | Transparent Data Encryption (TDE) | Encrypts database files automatically at the storage level |
+| Secure Sockets Layer (SSL) | Encrypts data transmitted between a user's device and a server |
+| Hypertext Transfer Protocol Secure (HTTPS) | Secure version of HTTP that uses SSL/TLS to encrypt web traffic |
 
 ---
 
@@ -62,3 +64,9 @@
 
 - **Symmetric** (single key)
 - **Asymmetric** (public-private key pair)
+
+### Data Protection in Transit:
+
+- **SSL (Secure Sockets Layer):**
+
+Encrypts data transmitted between a user's device and a server. This prevents unauthorised access or interception during transit.
