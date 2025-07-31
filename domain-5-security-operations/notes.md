@@ -83,3 +83,10 @@ Ensures communication between a browser and a website remains secure.
 - Critical as data is typically decrypted during this stage, making it vulnerable to attacks.
 
 ### Symmetric vs. Asymmetric Encryption
+
+| Symmetric | Asymmetric |
+| --------- | ---------- |
+| Fast and efficient | Slower compared to symmetric |
+| Less scalable | Supports scalability and key distribution |
+| Requiring secure key sharing | Secure key exchange but being slower |
+| E.g. AES (Advanced Encryption Standard) | E.g. RSA (Rivest-Shamir Adleman |
