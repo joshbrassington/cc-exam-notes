@@ -125,3 +125,9 @@ Ensures communication between a browser and a website remains secure.
 2. **Internal / Confidential** - restricted to employees
 3. **Sensitive** - requires extra protection
 4. **Regulated / Highly Sensitive** - legally protected
+
+### Data Labeling
+
+- This is where you assign visual or metadata-based tags to indicate classification.
+- Helps employees and systems recognise and handle data appropriately.
+- Prevents any accidental data exposure.
