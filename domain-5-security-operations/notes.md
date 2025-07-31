@@ -70,3 +70,12 @@
 - **SSL (Secure Sockets Layer):**
 
 Encrypts data transmitted between a user's device and a server. This prevents unauthorised access or interception during transit.
+
+- **HTTPS:**
+
+Ensures communication between a browser and a website remains secure.
+
+### Protection of Data in Use
+
+- This refers to the safeguarding of data while it is being actively accessed, processed, or used in memory.
+- Critical as data is typically decrypted during this stage, making it vulnerable to attacks.
