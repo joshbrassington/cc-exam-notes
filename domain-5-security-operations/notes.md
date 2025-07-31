@@ -27,7 +27,7 @@
 
 | Term | Definition |
 |------|------------|
-| SIEM | Security Information and Event Management system |
+| Security Information and Event Management (SIEM) | Platform for collecting, analysing and managing security events and logs |
 | SOC | Security Operations Center — central unit for security monitoring |
 | IR | The process for detecting, responding to, and recovering from incidents |
 | Encryption | Process of converting plaintext into ciphertext to protect data |
@@ -42,6 +42,11 @@
 | Trusted Platform Module (TPM) | Dedicated microchip designed to secure hardware by storing cryptographic keys and other sensitive data |
 | Hardware Security Module (HSM) | Physical device used to generate, store and manage cryptographic keys securely |
 | Hashing | Converts data into a fixed-length string using a mathematical function |
+| Security Content Automation Protocol (SCAP) | Framework for automating the management of security configurations and vulnerabilities |
+| Antivirus | Software designed to detect, prevent and remove malware |
+| Data Loss Prevention (DLP) | Tools to prevent unauthorised data transfer or access |
+| Simple Network Management Protocol (SNMP) Traps | Notifications sent by devices to a management system when predefined events occur |
+| Netflow | Protocol for collecting and analysing IP network traffic data |
 
 ---
 
@@ -143,3 +148,10 @@ Ensures communication between a browser and a website remains secure.
 - **Label** --> Enable proper handling
 - **Retain** --> Only as long as needed
 - **Destroy** --> Beyond recovery
+
+### Configuration Management
+
+- Process of maintaing security and functionality of IT systems.
+- Ensures systems are configured correctly and consistently.
+- Prevents security vulnerabilities due to misconfiguration.
+- Key for compliance with security frameworks (NIST) CIS, ISO 27001)
