@@ -90,3 +90,9 @@ Ensures communication between a browser and a website remains secure.
 | Less scalable | Supports scalability and key distribution |
 | Requiring secure key sharing | Secure key exchange but being slower |
 | E.g. AES (Advanced Encryption Standard) | E.g. RSA (Rivest-Shamir Adleman |
+
+### Block Ciphers
+
+- Encrypts data in fixed-size blocks.
+- Processes plaintext in chunks, applying the same encryption algorithm to each block.
+- Slower but more secure for bulk data encryption.
